@@ -6,7 +6,7 @@
 
 OwQC是使用GOCQHTTP构成的机器人！支持多Q！ 
 
-官网 [OwQFUN](http://fun.owq.plus/) 交流社区 [OwQFUNDiscuss](http://bbs.owq.plus/)  QQ交流群1065271820
+官网 [OwQFUN](http://fun.owq.plus/) 交流社区 [OwQFUN社区](http://bbs.owq.plus/)  QQ交流群1065271820
 
 ## 声明
 
