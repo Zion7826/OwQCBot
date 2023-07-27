@@ -74,7 +74,7 @@ OwQC借鉴了KUM（大唐）/大唐等框架源码，也借鉴了PC协议框架�
 ## 鸣谢
 
 > 感谢在OwQC成长中为OwQC提供帮助和建议的各大开发者以及用户们，谢谢你们 [Thanks♪(･ω･)ﾉ]
-> 特别鸣谢：花米，Moh,Daen
+> 特别鸣谢：花米，Moh，Daen
 > [GO-CQHTTP  GO-CQHTTP GO-CQHTTP  GO-CQHTTP  (YYDS)](https://github.com/Mrs4s/go-cqhttp)
 
 ## 补充
