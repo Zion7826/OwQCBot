@@ -14,7 +14,7 @@ OwQC借鉴了KUM（大唐）/大唐等框架源码，也借鉴了PC协议框架�
 
 注意!OwQFUN源码均已加密，使用需要输入密码！
 
-密码获取: [点击进入](https://bbs.owq.plus/forum.php?mod=viewthread&tid=39&page=1&extra=#pid50)
+密码获取: [点击进入](https://bbs.ccfun.com.cn/theme_122_1_1)
 
 ## 声明
 
