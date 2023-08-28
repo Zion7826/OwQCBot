@@ -10,11 +10,9 @@ OwQC借鉴了KUM（大唐）/大唐等框架源码，也借鉴了PC协议框架�
 
 版权所有/KUM、Daen、大唐、HIQQ、StarCatQQ、CCFUN（CCFUNSTUDIO）
 
-交流社区 [OwQFUN社区](http://bbs.ccfun.com.cn/)  QQ交流群1065271820
+交流社区 [OwQFUN社区](http://bbs.ccfun.com.cn/)  QQ交流群[1065271820](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=qBJoXQTHU1H3DigVRG9AoVze7ZviuoNg&authKey=NxKEUObmKeY76Ww0bTdxOH18DL7jb2fxZzE21rs0xv5VsWt9FZWNIkBM3UYNOKpB&noverify=0&group_code=1065271820)
 
-注意!OwQFUN源码均已加密，使用需要输入密码！
 
-密码获取: [点击进入](https://bbs.ccfun.com.cn/theme_122_1_1)
 
 ## 声明
 
