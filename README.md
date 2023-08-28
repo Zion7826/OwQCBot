@@ -8,6 +8,8 @@ OwQC是使用GOCQHTTP构成的机器人！支持多Q！
 
 OwQC借鉴了KUM（大唐）/大唐等框架源码，也借鉴了PC协议框架的运行机制！
 
+OwQC官方发行版带有兼容Kum和MyQQ的插件，欢迎体验！
+
 版权所有/KUM、Daen、大唐、HIQQ、StarCatQQ、CCFUN（CCFUNSTUDIO）
 
 交流社区 [OwQFUN社区](http://bbs.ccfun.com.cn/)  QQ交流群[1065271820](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=qBJoXQTHU1H3DigVRG9AoVze7ZviuoNg&authKey=NxKEUObmKeY76Ww0bTdxOH18DL7jb2fxZzE21rs0xv5VsWt9FZWNIkBM3UYNOKpB&noverify=0&group_code=1065271820)
